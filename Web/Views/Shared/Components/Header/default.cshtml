@@ -1,6 +1,8 @@
-﻿
+﻿@{
+    var absolutePath = Context.Request.Path.Value;
+}
 
-@if(HttpRequest.Url.AbsolutePath == "/")
+@if(absolutePath == "/")
 {
 <header>
     <div class="navbar navbar-default navbar-static-top">
@@ -13,7 +15,6 @@
 
                 .navbar-toggle {
                     margin-right: 10px;
-                    /
                 }
 
                 .navbar-brand img {
@@ -58,7 +59,6 @@ else
 
                     .navbar-toggle {
                         margin-right: 5px;
-                        /
                     }
 
                     .navbar-brand img {
