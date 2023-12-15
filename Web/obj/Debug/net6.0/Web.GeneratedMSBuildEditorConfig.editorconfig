@@ -9,65 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web\
+build_property.ProjectDir = D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web
+build_property.MSBuildProjectDirectory = D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/About/Index.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Home/Index.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/About/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Atacflowpage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2Zsb3dwYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Brandpage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRwYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Forestallpage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZXN0YWxscGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Home/Privacy.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/Clients/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Clients/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2xpZW50c1xkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/Footer/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Footer/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXGRlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/Header/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Header/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXGRlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/Products/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Products/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdHNcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/Slider/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Slider/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXGRlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Components/WhoWeAre/default.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/WhoWeAre/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV2hvV2VBcmVcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/Error.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/_ViewImports.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/TR7Page/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFI3UGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/_ViewStart.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Seed Bt/Sources/Github/DerinTechBilisim/DerinTech/Web/Views/Shared/_Layout.cshtml]
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

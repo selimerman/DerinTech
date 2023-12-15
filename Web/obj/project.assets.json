@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Seed Bt\\Sources\\Github\\DerinTechBilisim\\DerinTech\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "D:\\Seed Bt\\Sources\\Github\\DerinTechBilisim\\DerinTech\\Web\\Web.csproj",
+      "projectPath": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\erman\\.nuget\\packages\\",
-      "outputPath": "D:\\Seed Bt\\Sources\\Github\\DerinTechBilisim\\DerinTech\\Web\\obj\\",
+      "outputPath": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

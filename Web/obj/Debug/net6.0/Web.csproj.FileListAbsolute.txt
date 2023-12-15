@@ -28,3 +28,13 @@ D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web\obj\Debug\net6.0\refint
 D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web\obj\Debug\net6.0\Web.pdb
 D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
 D:\Seed Bt\Sources\Github\DerinTechBilisim\DerinTech\Web\obj\Debug\net6.0\ref\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\refint\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.pdb
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.AssemblyInfo.cs
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs

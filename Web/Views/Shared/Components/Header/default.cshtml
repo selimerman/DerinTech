@@ -1,25 +1,95 @@
-﻿<!-- start header -->
+﻿
+
+@if(HttpRequest.Url.AbsolutePath == "/")
+{
 <header>
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
+            <style>
+                .navbar-header {
+                    display: flex;
+                    align-items: center;
+                }
+
+                .navbar-toggle {
+                    margin-right: 10px;
+                    /
+                }
+
+                .navbar-brand img {
+                    width: 250px;
+                    height: auto;
+                    margin-left: -150px;
+                }
+            </style>
+
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"/></a>
+                <a class="navbar-brand" href="index.html"><img src="img/logod.png" alt="logo" /></a>
             </div>
             <div class="navbar-collapse collapse ">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.html">Home</a></li> 
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                    <li><a href="pricing.html">Pricing</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li class="active"><a href="index.html">Anasayfa</a></li>
+                    <li><a href="about.html">Hakkımızda</a></li>
+                    <li><a href="portfolio.html">İş Ortaklarımız</a></li>
+                    <li><a href="contact.html">İletişim</a></li>
+                    <li><a href="pricing.html">sssss</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </header>
+}
+else
+{
+<header>
+    <div class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <style>
+                    .navbar-header {
+                        display: flex;
+                        align-items: center;
+                    }
+
+                    .navbar-toggle {
+                        margin-right: 5px;
+                        /
+                    }
+
+                    .navbar-brand img {
+                        width: 200px;
+                        height: auto;
+                        margin-left: -60px;
+                        margin-top: -40px;
+                    }
+                </style>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><img src="img/logod.png" alt="logo" /></a>
+            </div>
+            <div class="navbar-collapse collapse ">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">Anasayfa</a></li>
+                    <li><a href="about.html">Hakkımızda</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li class="active"><a href="portfolio.html">İşortaklarımız</a></li>
+                    <li><a href="pricing.html">Pricing</a></li>
+                    <li><a href="contact.html">İletişim</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header><!-- end header -->
+}
+
+
+
+
