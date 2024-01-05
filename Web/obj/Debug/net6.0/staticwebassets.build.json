@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a7IhWswvrAs3pdni0cqZWREV1o8tJw7iWpZW8GpBa4g=",
+  "Hash": "eJhXKkFIQrBIcwtOEQh0E5DAyGBaoxwXxaaU9ScVKIY=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web\\wwwroot",
       "Source": "Web",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Web.styles.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Web.styles.css",
       "SourceId": "Web",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Web",
       "RelativePath": "Web.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Web.styles.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
       "SourceId": "Web",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Web",
       "RelativePath": "Web.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\animate.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\custom-fonts.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\custom-fonts.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/custom-fonts.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom-fonts.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\blank.gif",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\blank.gif",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/fancybox/blank.gif",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fancybox\\blank.gif"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_loading.gif",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_loading.gif",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/fancybox/fancybox_loading.gif",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fancybox\\fancybox_loading.gif"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_overlay.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_overlay.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/fancybox/fancybox_overlay.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fancybox\\fancybox_overlay.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_sprite.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\fancybox_sprite.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/fancybox/fancybox_sprite.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fancybox\\fancybox_sprite.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\jquery.fancybox.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\fancybox\\jquery.fancybox.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/fancybox/jquery.fancybox.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fancybox\\jquery.fancybox.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\flexslider.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\flexslider.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/flexslider.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flexslider.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\font-awesome.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/font-awesome.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\site.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\css\\style.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\favicon.ico",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.eot",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.eot",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/customicon/icons.eot",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\customicon\\icons.eot"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.svg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.svg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/customicon/icons.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\customicon\\icons.svg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.ttf",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.ttf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/customicon/icons.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\customicon\\icons.ttf"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.woff",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\customicon\\icons.woff",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/customicon/icons.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\customicon\\icons.woff"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome.otf",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome.otf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/fontawesome.otf",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome.otf"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\2.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\2.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/2.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\2.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\23.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\23.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/23.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\23.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\avatar.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\avatar.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/avatar.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\avatar.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\bg_direction_nav.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\bg_direction_nav.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/bg_direction_nav.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg_direction_nav.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client1.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client1.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/client1.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client1.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client2.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client2.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/client2.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client2.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client3.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\client3.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/client3.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client3.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\dddd.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\dddd.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/dddd.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dddd.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\glyphicons-halflings.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\glyphicons-halflings.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/glyphicons-halflings.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\glyphicons-halflings.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\glyphicons-halflings-white.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\glyphicons-halflings-white.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/glyphicons-halflings-white.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\glyphicons-halflings-white.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\img1.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\img1.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/img1.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img1.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\img2.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\img2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/img2.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\img2.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logo.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logod.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logod.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/logod.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logod.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\nivo-bullets.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\nivo-bullets.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/nivo-bullets.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\nivo-bullets.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\Products\\forestall.png",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\Products\\forestall.png",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/Products/forestall.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Products\\forestall.png"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service1.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service1.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service1.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service2.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service2.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service22.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service22.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service22.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service22.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service3.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service3.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service3.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service4.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/service4.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service4.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\1.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/slides/1.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slides\\1.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\2.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/slides/2.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slides\\2.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\3.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/slides/3.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slides\\3.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\4.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/slides/4.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slides\\4.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team1.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/team1.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team1.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team2.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/team2.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team2.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team3.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/team3.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team3.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team4.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/team4.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team4.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\1.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\1.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/1.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\1.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\2.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\2.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/2.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\2.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\3.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\3.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/3.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\3.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\4.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\4.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/4.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\4.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\5.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\5.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/5.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\5.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\6.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\6.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/6.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\6.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\7.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\7.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/7.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\7.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\8.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\8.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/8.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\8.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\atack.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\atack.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/atack.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\atack.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\brand.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\brand.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/brand.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\brand.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\forestall.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\forestall.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/forestall.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\forestall.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\tr7logo.jpg",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\tr7logo.jpg",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "img/works/tr7logo.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\works\\tr7logo.jpg"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\animate.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\animate.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/animate.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\animate.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\custom.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\flexslider\\jquery.flexslider.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\flexslider\\jquery.flexslider.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/flexslider/jquery.flexslider.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\flexslider\\jquery.flexslider.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\flexslider\\setting.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\flexslider\\setting.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/flexslider/setting.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\js\\flexslider\\setting.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\google-code-prettify\\prettify.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\google-code-prettify\\prettify.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/google-code-prettify/prettify.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\js\\google-code-prettify\\prettify.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\google-code-prettify\\prettify.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\google-code-prettify\\prettify.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/google-code-prettify/prettify.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\js\\google-code-prettify\\prettify.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.easing.1.3.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.easing.1.3.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/jquery.easing.1.3.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.easing.1.3.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.fancybox.pack.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.fancybox.pack.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/jquery.fancybox.pack.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.fancybox.pack.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.fancybox-media.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.fancybox-media.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/jquery.fancybox-media.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.fancybox-media.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.flexslider.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.flexslider.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/jquery.flexslider.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.flexslider.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\jquery.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\portfolio\\jquery.quicksand.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\portfolio\\jquery.quicksand.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/portfolio/jquery.quicksand.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\js\\portfolio\\jquery.quicksand.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\portfolio\\setting.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\portfolio\\setting.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/portfolio/setting.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\js\\portfolio\\setting.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\quicksand\\jquery.quicksand.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\quicksand\\jquery.quicksand.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/quicksand/jquery.quicksand.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quicksand\\jquery.quicksand.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\quicksand\\setting.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\quicksand\\setting.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/quicksand/setting.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quicksand\\setting.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\site.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\validate.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\validate.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "js/validate.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validate.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Talha\\Documents\\GitHub\\DerinTech\\DerinTech\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

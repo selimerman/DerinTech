@@ -69,3 +69,34 @@ D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web\obj\Debug\net6.0\scopedcss\pro
 D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
 D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web\obj\Debug\net6.0\ref\Web.dll
 D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web\bin\Debug\net6.0\web.config
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\web.config
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.staticwebassets.runtime.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.exe
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.deps.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.runtimeconfig.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\bin\Debug\net6.0\Web.pdb
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.AssemblyInfoInputs.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.AssemblyInfo.cs
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.RazorAssemblyInfo.cs
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Web.props
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\scopedcss\bundle\Web.styles.css
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\scopedcss\projectbundle\Web.bundle.scp.css
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\refint\Web.dll
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.pdb
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\Web.genruntimeconfig.cache
+C:\Users\Talha\Documents\GitHub\DerinTech\DerinTech\Web\obj\Debug\net6.0\ref\Web.dll
