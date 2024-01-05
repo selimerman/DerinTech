@@ -963,9 +963,12 @@ ul.portfolio-categ {
         background: #51d466;
     }
 
-    .progress .progress-bar.progress-bar-lblue {
+    .progress .progress-bar.progress-bar-blue {
         background: #32c8de;
     }
+.progress .progress-bar.progress-bar-orange {
+    background: orange;
+}
 /* --- portfolio detail --- */
 .top-wrapper {
     margin-bottom: 20px;

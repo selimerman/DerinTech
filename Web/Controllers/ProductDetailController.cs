@@ -14,7 +14,7 @@ namespace Web.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index(int productId)
+        public IActionResult Index(int id)
         {
             var model = new ProductLst();
             {
@@ -22,7 +22,6 @@ namespace Web.Controllers
                 model.PageTitle = "İş Ortaklarımız";
                 model.Products = new List<Product>();
             };
-           
             model.Products.Add(new Product
             {
                 Id = 1,
@@ -32,7 +31,7 @@ namespace Web.Controllers
                 Category = "Siber Güvenlik",
                 CategoryTag = "Siber",
                 Detay = "TR7, güçlü donanım, esnek sanal cihaz ve üyelik sistemi (subscription) ile üç ana başlık altında kapsamlı bir çözüm sunar. Donanım çözümü, yüksek performans ve ölçeklenebilirlik vadederken, sanal cihaz çözümü bulut ortamlarında ideal bir çözüm sunar. Üyelik sistemi çözümü ise işletmelerin ihtiyaçlarına göre ölçeklenebilir ve uygun maliyetli bir çözüm sunmaktadır.\n\n TR7, web uygulamalarını SQL injection, XSS, DDoS saldırıları gibi çeşitli siber tehditlere karşı etkili bir koruma sağlamaktadır. Aynı zamanda, web uygulamalarının performansını artırarak kullanılabilirliği en üst düzeye çıkarmaktadır.\n\n     Türkiye'nin siber güvenlik alanındaki önemli gelişmelerinden biri olan TR7, yerli ve milli bir çözüm olmasıyla Türkiye'nin siber güvenlik konusundaki dışa bağımlılığını azaltmaya katkı sağlamaktadır. Türkiye genelinde ve yurt dışında birçok kurum tarafından tercih edilen TR7, siber güvenlik alanında güvenilir bir çözüm sunmaktadır. Web sitenizi TR7 ile tanıştırın ve güvenlikte yeni bir döneme adım atın!",
-                
+
                 Ozellikleri = new List<OzellikItem> {
                     new OzellikItem
                 {
@@ -63,18 +62,17 @@ namespace Web.Controllers
 
 
             });
-           
             model.Products.Add(new Product
             {
                 Id = 2,
-                Description= "AttackFlow",
+                Description = "AttackFlow",
                 PageName = "AtackFlowPage",
                 ImageUrl = "/img/works/atack.jpg",
                 Category = "Siber Güvenlik",
                 CategoryTag = "Siber",
                 Detay = " AttackFlow, yazılım geliştiricilerin yazılımlarında potansiyel güvenlik açıklarını tespit etmelerine yardımcı olmak için tasarlanmış bir araçtır. AttackFlow, yazılım geliştirme sürecine entegre olarak çalışır ve geliştiricilere, kodunu gerçek zamanlı olarak analiz etme ve güvenlik açıklarını düzeltme olanağı sunar.AttackFlow, yazılım geliştiricilerin yazılım güvenliklerini geliştirmelerine yardımcı olmak için önemli bir araçtır. AttackFlow, yazılım geliştirme sürecine entegre olarak kullanılarak, geliştiricilerin güvenlik açıklarını daha erken tespit etmelerine ve düzeltmelerine yardımcı olur. Bu, yazılımların güvenliğini artırmaya ve siber saldırılara karşı korunmasına yardımcı olur.",
 
-                 Ozellikleri = new List<OzellikItem> {
+                Ozellikleri = new List<OzellikItem> {
                     new OzellikItem
                 {
                     Title = "Gerçek Zamanlı Analiz",
@@ -100,9 +98,6 @@ namespace Web.Controllers
                     Description = "AttackFlow, çeşitli güvenlik açıklarını tespit edebilir. Bu, geliştiricilerin yazılımlarının güvenliğini artırmalarına yardımcı olur."
                 } }
             });
-
-
-
             model.Products.Add(new Product
             {
                 Id = 3,
@@ -112,7 +107,7 @@ namespace Web.Controllers
                 Category = "Active Directory",
                 CategoryTag = "ActiveDirectory",
                 Detay = "Forestall Active Directory Security Assessment Forestall Bilişim Arge ve Danışmanlık Hizmetleri tarafından geliştirilmiş bir Active Directory güvenlik değerlendirme hizmetidir. Active Directory Security Assessment, işletmelerin Active Directory ortamlarındaki güvenlik açıklarını ve riskleri tespit etmek için tasarlanmıştır. Active Directory Security Assessment, işletmelerin Active Directory güvenliklerini iyileştirmelerine yardımcı olmak için önemli bir araçtır. Active Directory Security; güvenlik açıklarını tespit etmek ve düzeltmek. Riskleri azaltmak uyumluluk gereksinimlerini karşılamak için kullanılır.",
-                
+
                 Ozellikleri = new List<OzellikItem> {
                     new OzellikItem
                 {
@@ -140,7 +135,6 @@ namespace Web.Controllers
                 } }
 
             });
-
             model.Products.Add(new Product
             {
                 Id = 4,
@@ -179,7 +173,8 @@ namespace Web.Controllers
 
 
             });
-            var item = model.Products.FirstOrDefault(c => c.Id == productId);
+            var item = model.Products.FirstOrDefault(c => c.Id == id);
+            model.Products = new List<Product> { model.Products.FirstOrDefault(c => c.Id == id) };
             return View(model);
         }
 

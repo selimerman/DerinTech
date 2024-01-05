@@ -16,14 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Seed Bt\Sources\Github\DerinTech\DerinTech\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/About/Index2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXgyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Atacflowpage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2Zsb3dwYWdlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/PageDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZURldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Portfolio/Index.cshtml]
