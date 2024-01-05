@@ -1,15 +1,17 @@
-﻿<section class="aboutUs">
+﻿@model List<WhoWeAreItem>
+
+<section class="aboutUs">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="aligncenter">
-                    <h2 class="aligncenter">BİZ KİMİZ ?</h2>
-                    "Derintech Bilişim, siber güvenliğinizi en üst düzeye çıkaran çözümlerle işinizi güçlendiriyor. Öncü teknoloji ve güvenlik yazılımları ile iş süreçlerinizi optimize edin. Siber tehditlere karşı güvende olun,dijital dönüşümle tanışın ve online dünyada öne çıkın. Hemen iletişime geçin, siber güvenlikle güçlendirilmiş iş çözümlerimizle işinizi büyütmenin avantajlarına birlikte adım atalım!<br />
+                    <h2 class="aligncenter">@Model[0].PageTitle</h2>
+                    @Model[0].Description
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-12"><img src="img/dddd.jpg" class="img-center" alt="" /></div>
-            </div>
-
         </div>
+        <div class="row">
+            <div class="col-md-12"><img src="@Model[0].Image" class="img-center" alt="" /></div>
+        </div>
+    </div>
 </section>

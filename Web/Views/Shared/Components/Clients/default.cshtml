@@ -1,8 +1,12 @@
-﻿<section id="clients">
+﻿<!-- clients.cshtml -->
+@model List<ClientViewModel>
+
+<section id="clients">
     <div class="container">
-       
+        <!-- Clients content goes here -->
     </div>
 </section>
+
 <section class="testimonial-area">
     <div class="testimonial-solid">
         <div class="container">
@@ -13,44 +17,23 @@
             </div>
             <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                    <li data-target="#carousel-example-generic" data-slide-to="0" class="">
-                        <a href="#"></a>
-                    </li>
-                    <li data-target="#carousel-example-generic" data-slide-to="1" class="">
-                        <a href="#"></a>
-                    </li>
-                    <li data-target="#carousel-example-generic" data-slide-to="2" class="active">
-                        <a href="#"></a>
-                    </li>
-                    <li data-target="#carousel-example-generic" data-slide-to="3" class="">
-                        <a href="#"></a>
-                    </li>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        <li data-target="#carousel-example-generic" data-slide-to="@i" class="@(i == 0 ? "active" : "")">
+                            <a href="#"></a>
+                        </li>
+                    }
                 </ol>
                 <div class="carousel-inner">
-                    <div class="item">
-                        <p> 'Gelişim ve büyüme, iş dünyasında rekabet avantajını sürdürmenin anahtarıdır.'.</p>
-                        <p>
-                            <b>- Elon Musk -</b>
-                        </p>
-                    </div>
-                    <div class="item">
-                        <p>İşini büyütmek için öğrenmeye ve değişime açık ol. Çünkü değişim, büyümenin anahtarıdır.'.</p>
-                        <p>
-                            <b>- Sheryl Sandberg -</b>
-                        </p>
-                    </div>
-                    <div class="item active">
-                        <p>Başarı, bir işin sürekli olarak gelişmesi ve değişmesiyle mümkündür.</p>
-                        <p>
-                            <b>- Jack Welch -</b>
-                        </p>
-                    </div>
-                    <div class="item">
-                        <p>Başarılı olmak için işini büyüt, ancak başkalarının hayatına dokunarak gerçek başarıya ulaşabilirsin.'.</p>
-                        <p>
-                            <b>- Oprah Winfrey -</b>
-                        </p>
-                    </div>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        <div class="item @(i == 0 ? "active" : "")">
+                            <p>@Model[i].Description</p>
+                            <p>
+                                <b>@Model[i].PageTitle</b>
+                            </p>
+                        </div>
+                    }
                 </div>
             </div>
         </div>

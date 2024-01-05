@@ -1,64 +1,61 @@
-﻿<footer>
+﻿@model List<FooterViewModel>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3">
+            <div class="widget">
+                <h5 class="widgetheading">@Model[0].Contactaddresstitle</h5>
+                <address>
+                    <strong>@Model[0].addresstitle</strong><br>
+                    @Html.Raw(Model[0].address)
+                </address>
+                <p>
+                    <i class="icon-phone"></i> @Model[0].phone <br>
+                    <i class="icon-envelope-alt"></i> @Model[0].email
+                </p>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="widget">
+                <h5 class="widgetheading">@Model[0].fasttravel</h5>
+                <ul class="link-list">
+                    <li><a href="/PageDetail/Index/1">@Model[0].about</a></li>
+                    <li><a href="Portfolio">@Model[0].Portfolio</a></li>
+                    <li><a href="contact">@Model[0].concat</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-lg-3">
+            <div class="widget">
+                <h5 class="widgetheading">Misyon & Vizyon</h5>
+                <ul class="link-list">
+                    <li><a href="#">@Model[0].mission</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="sub-footer">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3">
-                <div class="widget">
-                    <h5 class="widgetheading">İletişim Adresimiz</h5>
-                    <address>
-                        <strong>DERİNTECH BİLİŞİM TİC. LTD. ŞTİ.</strong><br>
-                        2224. Cad. No:1 TeknoPark Ankara <br>
-                        Yenimahalle / ANKARA.
-                    </address>
+            <div class="col-lg-6">
+                <div class="copyright">
                     <p>
-                        <i class="icon-phone"></i> 0 (554) 416 62 62 <br>
-                        <i class="icon-envelope-alt"></i> av_mehmetsari@hotmail.com
+                        <span>&copy; Creative Bee 2023 All right reserved. By </span><a href="https://seven7.com.tr/" target="_blank" style="color: #006DAA;">Seven7Teknoloji</a>
                     </p>
                 </div>
             </div>
-            <div class="col-lg-3">
-                <div class="widget">
-                    <h5 class="widgetheading">Hızılı Erişim</h5>
-                    <ul class="link-list">
-                        <li><a href="/PageDetail/Index/1">Hakkımızda</a></li>
-                        <li><a href="Portfolio">Portfolio</a></li>
-                        <li><a href="contact">iletişim</a></li>
-
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <div class="widget">
-                    <h5 class="widgetheading">Misyon&Vizyon</h5>
-                    <ul class="link-list">
-                        <li><a href="#">Misyon ve vizyonumuz.</a></li>
-
-
-                    </ul>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-    <div id="sub-footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="copyright">
-                        <p>
-                            <span>&copy; Creative Bee 2023 All right reserved. By </span><a href="https://seven7.com.tr/" target="_blank">Seven7Teknoloji</a>
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <ul class="social-network">
-                        <li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a href="#" data-placement="top" title="Google plus"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
+            <div class="col-lg-6">
+                <ul class="social-network">
+                    <li><a href="#" data-placement="top" title="Facebook" style="color: #1877F2;"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" data-placement="top" title="Twitter" style="color: #1DA1F2;"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" data-placement="top" title="Linkedin" style="color: #006DAA;"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="#" data-placement="top" title="Pinterest" style="color: #931621;"><i class="fa fa-pinterest"></i></a></li>
+                    <li><a href="#" data-placement="top" title="Google plus" style="color: #931621;"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
             </div>
         </div>
     </div>
-</footer>
+</div>
+
