@@ -1,0 +1,64 @@
+﻿@model Web.Models.ProductViewModel.ProductLst
+
+@{
+    ViewData["Title"] = "Portfolio";
+}
+
+@await Component.InvokeAsync("Header")
+
+
+
+@{
+    var item = Model.Products.FirstOrDefault();
+}
+
+
+<section id="inner-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="pageTitle">@Model.PageTitle</h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="content">
+    <div class="container content">
+        <div class="row service-v1 margin-bottom-40">
+            <div class="col-md-3 md-margin-bottom-40">
+                <img class="img-responsive" src="@item.ImageUrl" alt="" style="margin-top: 80px;">
+            </div>
+
+            <div class="col-md-9 md-margin-bottom-40">
+                <h2>@Html.Raw(item.Description)</h2>
+                <p>@Html.Raw(item.Detay)</p>
+            </div>
+        </div>
+       
+        <hr class="margin-bottom-50">
+        
+        <div class="row">
+            @foreach (var ozellikItem in item.Ozellikleri)
+            {
+                <div class="col-sm-3 info-blocks">
+                    <i class="icon-info-blocks fa fa-@ozellikItem.Image"></i>
+                    <div class="info-blocks-in">
+                        <h3>@ozellikItem.Title</h3>
+                        <p>@ozellikItem.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+
+       
+        
+    </div>
+</section>
+
+
+@await Component.InvokeAsync("Footer")
+
+
+
+

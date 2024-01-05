@@ -93,6 +93,14 @@
       "PackagePath": "staticwebassets\\fonts\\fontawesome.otf"
     },
     {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\23.jpg"
+    },
+    {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\Products\\forestall.png",
       "PackagePath": "staticwebassets\\img\\Products\\forestall.png"
     },
@@ -117,6 +125,10 @@
       "PackagePath": "staticwebassets\\img\\client3.png"
     },
     {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\dddd.jpg",
+      "PackagePath": "staticwebassets\\img\\dddd.jpg"
+    },
+    {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\glyphicons-halflings-white.png",
       "PackagePath": "staticwebassets\\img\\glyphicons-halflings-white.png"
     },
@@ -129,12 +141,24 @@
       "PackagePath": "staticwebassets\\img\\img1.png"
     },
     {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\img\\img2.jpg"
+    },
+    {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\logod.png",
+      "PackagePath": "staticwebassets\\img\\logod.png"
+    },
+    {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\nivo-bullets.png",
       "PackagePath": "staticwebassets\\img\\nivo-bullets.png"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service.jpg",
+      "PackagePath": "staticwebassets\\img\\service.jpg"
     },
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service1.jpg",
@@ -145,8 +169,16 @@
       "PackagePath": "staticwebassets\\img\\service2.jpg"
     },
     {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service22.jpg",
+      "PackagePath": "staticwebassets\\img\\service22.jpg"
+    },
+    {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service3.jpg",
       "PackagePath": "staticwebassets\\img\\service3.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\service4.jpg",
+      "PackagePath": "staticwebassets\\img\\service4.jpg"
     },
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\1.jpg",
@@ -155,6 +187,14 @@
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\2.jpg",
       "PackagePath": "staticwebassets\\img\\slides\\2.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\3.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\slides\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\4.jpg"
     },
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\team1.jpg",
@@ -203,6 +243,22 @@
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\8.jpg",
       "PackagePath": "staticwebassets\\img\\works\\8.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\atack.jpg",
+      "PackagePath": "staticwebassets\\img\\works\\atack.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\brand.jpg",
+      "PackagePath": "staticwebassets\\img\\works\\brand.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\forestall.jpg",
+      "PackagePath": "staticwebassets\\img\\works\\forestall.jpg"
+    },
+    {
+      "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\img\\works\\tr7logo.jpg",
+      "PackagePath": "staticwebassets\\img\\works\\tr7logo.jpg"
     },
     {
       "Id": "D:\\Seed Bt\\Sources\\Github\\DerinTech\\DerinTech\\Web\\wwwroot\\js\\animate.js",

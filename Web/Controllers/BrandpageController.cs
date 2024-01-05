@@ -4,11 +4,11 @@ using Web.Models;
 
 namespace Web.Controllers
 {
-    public class BrandepageController : Controller
+    public class BrandpageController : Controller
     {
-        private readonly ILogger<BrandepageController> _logger;
+        private readonly ILogger<BrandpageController> _logger;
 
-        public BrandepageController(ILogger<BrandepageController> logger)
+        public BrandpageController(ILogger<BrandpageController> logger)
         {
             _logger = logger;
         }

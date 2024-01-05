@@ -28,8 +28,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2Zsb3dwYWdlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Atackflowpage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2tmbG93cGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Brandpage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRwYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Forestallpage/Index.cshtml]
@@ -46,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Portfolio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/ProductDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Seed Bt/Sources/Github/DerinTech/DerinTech/Web/Views/Shared/Components/Clients/default.cshtml]
