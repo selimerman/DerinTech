@@ -1,0 +1,17 @@
+Asp.Net Core uygulmasını Docekerize Etme 
+
+1-Projede sağ tıklayıp ekle ye basıp docker desteği ekle diyoruz.
+2-Çıkan pencerden Linux'u seçiyoruz ve dosya oluşuyor 
+3-projeyi publish ediyoruz , publish ederken klasör olarak yayınlıyoruz ve bin\Release\net6.0\publish\ yolunda olmasına dikkat ediyoruz.
+4-Docker dosyası: 
+
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 
+WORKDIR /app
+COPY /bin/Release/net6.0/publish .
+ENTRYPOINT ["dotnet", "Web.dll"]
+
+5-Sırada PowerShell açıyoruz ve dosya yolunu kopyalıyoruz //örnek cd  C:\Users\Talha\Documents\GitHub\DerinTech\Web ve yapıştırıyoruz.
+6-docker image dosyası oluşturmak için ;  (docker build -t derintechbilisim:v3 .) isim ve tag numarası veriyoruz 
+7-docker images ile dosyamızın oluşup oluşmadığına bakabiliriz 
+8-Docker konteynır oluşturmak için ( docker run -p 2000:80 derintechbilisim:v3 )
+
